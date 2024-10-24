@@ -1,4 +1,4 @@
-cask "cleanmymac" do
+cask "cleanmymacx" do
   version "4.15.8,41508.0.2409290833,1727689474"
   sha256 "e8b6f656653c50ab2bd843686d58cc0aaf8b391530524cd66ed5c10127f9a904"
 
